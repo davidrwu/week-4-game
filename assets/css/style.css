@@ -1,0 +1,50 @@
+h1 {
+	text-align:center;
+	font-size: 100px;
+}
+
+h2 {
+	text-align:center;
+	font-size: 40px;
+}
+
+h3 {
+	font-size: 20px;
+}
+
+p {
+	text-align: center;
+}
+
+body {
+	background-image: url("https://img.clipartfest.com/d08413e23a02540e8a2c43d8aa0c4eeb_clipartbest-com-sky-clipart-background_1600-863.png")
+}
+
+img {
+	height:80px;
+	width:80px;
+	border-radius: 100%;
+	margin-bottom: 10px;
+}
+
+#emerald {
+	margin-bottom: 20px;
+}
+
+img:hover {
+	cursor: pointer;
+	box-shadow: 2px 2px 10px black;
+}
+
+img:active {
+	box-shadow: 1px 1px 5px black;
+}
+
+.score p {
+	font-size: 30px;
+	color: white;
+}
+
+.image {
+	text-align: center;
+}
